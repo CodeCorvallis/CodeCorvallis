@@ -73,7 +73,7 @@ export default defineConfig({
       // Canonical URL
       ['link', { rel: 'canonical', href: pageUrl }],
 
-      // Robots tag (adjust as needed)
+      // Robots tag
       ['meta', { name: 'robots', content: 'index, follow' }]
     ]
   }

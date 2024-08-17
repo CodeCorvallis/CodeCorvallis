@@ -5,10 +5,6 @@ docs/.vitepress/cache
 # Node modules
 node_modules/
 
-# Vite / VitePress related cache
-.vitepress/
-.vite/
-
 # Local environment settings
 .env
 .env.*
