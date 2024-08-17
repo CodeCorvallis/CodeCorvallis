@@ -22,7 +22,7 @@ Interested in presenting at a Code Corvallis event? We welcome proposals from al
 
 We welcome contributions to improve the Code Corvallis website! Here’s how you can contribute:
 
-- **Open an Issue**: If you find any bugs or have suggestions for improvements, please [open an issue](https://github.com/CodeCorvallis/CodeCorvallis/issues).
+- **Open an Issue**: If you find any bugs or have suggestions for improvements, please [open an issue](https://github.com/CodeCorvallis/CodeCorvallis/issues/new?template=bug-or-improvement.md).
 - **Submit a Pull Request (PR)**: If you want to directly make changes, feel free to submit a pull request. We recommend following the existing structure and style when making edits.
 
 ## Development Setup
