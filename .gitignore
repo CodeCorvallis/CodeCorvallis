@@ -1,0 +1,22 @@
+# VitePress build output
+docs/.vitepress/dist
+docs/.vitepress/cache
+
+# Node modules
+node_modules/
+
+# Vite / VitePress related cache
+.vitepress/
+.vite/
+
+# Local environment settings
+.env
+.env.*
+
+# IDE/Editor specific files
+.vscode/
+.idea/
+
+# OS Specific Files
+.DS_Store
+Thumbs.db
