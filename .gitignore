@@ -22,4 +22,4 @@ node_modules/
 Thumbs.db
 
 # Include the config file
-!.vitepress/config.mjs
+!/docs/.vitepress/config.mjs
