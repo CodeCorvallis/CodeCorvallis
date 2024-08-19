@@ -26,7 +26,7 @@ Do you have a great idea for a talk or presentation at Code Corvallis? We welcom
    - **Additional Notes**: Mention any special requirements or additional details that would help us plan your talk.
 
 2. **Submit Your Proposal:**
-   - Once you're ready, [submit your proposal here](https://github.com/CodeCorvallis/CodeCorvallis/issues/new?template=proposal.md).
+   - Once you're ready, [submit your proposal here](https://github.com/CodeCorvallis/CodeCorvallis/issues/new?template=proposal.md&labels=presentation-submission).
    - This will open a new GitHub issue where you can fill out the proposal template.
 
 3. **What Happens Next?**
