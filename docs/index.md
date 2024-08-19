@@ -63,7 +63,7 @@ Let’s come together to share knowledge and dive into the world of software dev
 
 🗓 **Stay Tuned**: We'll be announcing the date, time, and location soon. In the meantime, join our [Discord community](/community) to stay up-to-date with the latest announcements and discussions.
 
-💡 **Get Involved**: Have an idea for a talk or want to present at a future event? [Submit your proposal](https://github.com/CodeCorvallis/CodeCorvallis/issues/new?template=proposal.md) and share your expertise with the community.
+💡 **Get Involved**: Have an idea for a talk or want to present at a future event? [Submit your proposal](https://github.com/CodeCorvallis/CodeCorvallis/issues/new?template=proposal.md&labels=presentation-submission) and share your expertise with the community.
 
 
 
