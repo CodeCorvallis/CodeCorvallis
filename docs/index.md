@@ -65,34 +65,3 @@ Let’s come together to share knowledge and dive into the world of software dev
 
 💡 **Get Involved**: Have an idea for a talk or want to present at a future event? [Submit your proposal](https://github.com/CodeCorvallis/CodeCorvallis/issues/new?template=proposal.md&labels=presentation-submission) and share your expertise with the community.
 
-
-
-<style>
-:root {
-  --vp-home-hero-name-color: transparent;
-  --vp-home-hero-name-background: -webkit-linear-gradient(
-    120deg,
-    #bd34fe 30%,
-    #41d1ff
-  );
-
-  --vp-home-hero-image-background-image: linear-gradient(
-    -45deg,
-    #bd34fe 50%,
-    #47caff 50%
-  );
-  --vp-home-hero-image-filter: blur(40px);
-}
-
-@media (min-width: 640px) {
-  :root {
-    --vp-home-hero-image-filter: blur(56px);
-  }
-}
-
-@media (min-width: 960px) {
-  :root {
-    --vp-home-hero-image-filter: blur(72px);
-  }
-}
-</style>
