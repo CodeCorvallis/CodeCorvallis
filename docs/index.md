@@ -21,7 +21,8 @@ hero:
       text: Submit Proposal
       link: /submit-proposal
   image:
-    src: /logo.png
+    src: /logo.webp
+    fallback: /logo.png
     alt: Code Corvallis logo
 features:
   - icon: 🧑‍🤝‍🧑
