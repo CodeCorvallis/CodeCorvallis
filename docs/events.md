@@ -20,9 +20,9 @@ At Code Corvallis, we explore all aspects of software development in a relaxed, 
 
 ## Meetup Schedule
 
-**Time**: 5:00 PM - 7:00 PM  
-**Date**: Tuesday, Every 2 Weeks
-**Location**: Varying
+**Time**: 5:00 PM - 7:00 PM<br>
+**Date**: Tuesday, Every 2 Weeks<br>
+**Location**: Varying<br>
 **Details**: Check out below for details on our next meetup. Check our [Discord community](/community) or follow us on social media for the latest updates!
 
 ## Next Meetup: Inaugural Code Corvallis Meetup
