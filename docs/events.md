@@ -27,13 +27,12 @@ At Code Corvallis, we explore all aspects of software development in a relaxed, 
 
 ## Next Meetup: Inaugural Code Corvallis Meetup
 
-**Time**: 5:00 PM - 7:00 PM  
-**Date**: October 8th, 2024 (AWAITING CONFIRMATION) 
-**Presenter**: None
+**Time**: 5:00 PM - 7:00 PM<br>
+**Date**: October 8th, 2024 (AWAITING CONFIRMATION)<br>
+**Presenter**: None<br>
 **Topic**: All things Code. General code discussion and socialization. Getting feedback on what people would like to see in terms of presentations and overall goals of the meetup. 
 
-**Location**: [Natural Grocers Community Room @ 1235 NW 10th St Corvallis, OR 97330](https://maps.app.goo.gl/gHs9tzfvrwq3XjoLA)  
-
+**Location**: [Natural Grocers Community Room @ 1235 NW 10th St Corvallis, OR 97330](https://maps.app.goo.gl/gHs9tzfvrwq3XjoLA)<br>
 **Amenities**: Wi-Fi, Power, Water, Parking (free), variety of food and drinks (paid)  
 **Notes**: The meeting room is in the back of the store.
 
