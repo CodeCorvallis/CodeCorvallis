@@ -21,24 +21,21 @@ At Code Corvallis, we explore all aspects of software development in a relaxed, 
 ## Meetup Schedule
 
 **Time**: 5:00 PM - 7:00 PM  
-**Date**: TBA  
-**Location**: TBA  
-**Details**: Stay tuned for details on our next meetup. Check our [Discord community](/community) or follow us on social media for the latest updates!
+**Date**: Tuesday, Every 2 Weeks
+**Location**: Varying
+**Details**: Check out below for details on our next meetup. Check our [Discord community](/community) or follow us on social media for the latest updates!
 
-## Next Meetup: Gaming Engines and Shader Wizardry
+## Next Meetup: Inaugural Code Corvallis Meetup
 
 **Time**: 5:00 PM - 7:00 PM  
-**Date**: [Date to be confirmed]  
-**Presenter**: Galen St John  
-**Topic**: Dive into the world of gaming engines and shader wizardry with Galen St John. Learn about the cutting-edge techniques behind modern game development, including real-time rendering, shader programming, and engine optimizations. Whether you're a game developer, hobbyist, or just curious about how games are made, this session is for you.
+**Date**: October 8th, 2024 (AWAITING CONFIRMATION) 
+**Presenter**: None
+**Topic**: All things Code. General code discussion and socialization. Getting feedback on what people would like to see in terms of presentations and overall goals of the meetup. 
 
-**Location**: [Building2SOTA, 2121 NE Jack London St Suite 120, Corvallis, OR 97330](https://www.google.com/maps/place/2121+NE+Jack+London+St+Suite+120,+Corvallis,+OR+97330)  
+**Location**: [Natural Grocers Community Room @ 1235 NW 10th St Corvallis, OR 97330](https://maps.app.goo.gl/gHs9tzfvrwq3XjoLA)  
 
-**RSVP**: [RSVP on Luma](https://lu.ma/code-corvallis-event-id)   
-
-**Amenities**: Wi-Fi, Power, Water only, Parking (Paid)  
-**Notes**: Please note that seating is limited to 12 attendees. The venue has one working toilet, and approval may be needed due to multiple tenants.
-
+**Amenities**: Wi-Fi, Power, Water, Parking (free), variety of food and drinks (paid)  
+**Notes**: The meeting room is in the back of the store.
 
 
 ## Get Involved
