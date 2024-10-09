@@ -58,11 +58,11 @@ Corvallis has a unique, underground tech community, and Code Corvallis offers a 
 
 Let’s come together to share knowledge and dive into the world of software development! Follow us on our website to stay updated on upcoming events and join us at our next meetup.
 
-## Upcoming Events
 
-🎉 **Exciting News!** Our next meetup is in the works, and we can't wait to share the details with you. 
+<!--@include: ../includes/next_event.md-->
 
-🗓 **Stay Tuned**: We'll be announcing the date, time, and location soon. In the meantime, join our [Discord community](/community) to stay up-to-date with the latest announcements and discussions.
+
+🗓 **Get Connected**: Join our [Discord community](/community) to connect with other developers and stay up-to-date with the latest announcements and discussions.
 
 💡 **Get Involved**: Have an idea for a talk or want to present at a future event? [Submit your proposal](https://github.com/CodeCorvallis/CodeCorvallis/issues/new?template=proposal.md&labels=presentation-submission) and share your expertise with the community.
 

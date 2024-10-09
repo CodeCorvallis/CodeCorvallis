@@ -25,7 +25,8 @@ At Code Corvallis, we explore all aspects of software development in a relaxed, 
 **Location**: Varying<br>
 **Details**: Check out below for details on our next meetup. Check our [Discord community](/community) or follow us on social media for the latest updates!
 
-<!--@include: ./next_event.md-->
+<!--@include: ../includes/next_event.md-->
+
 
 ## Get Involved
 Want to present at a future meetup or help organize an event? [Submit a proposal](https://github.com/CodeCorvallis/CodeCorvallis/issues/new?template=proposal.md) or reach out to us through our [community page](/community).
