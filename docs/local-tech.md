@@ -14,7 +14,7 @@ tags:
 # Explore the Local Tech Scene
 
 ## Join the Code Corvallis Meetup
-The Code Corvallis meetup is the perfect place to connect with local software developers and tech enthusiasts. We host regular events focused on coding, networking, and knowledge sharing. Whether you're a seasoned developer or just starting out, Code Corvallis provides a welcoming space for all levels. [Join us at our next event!](/events) and [connect with our community](/community) on Discord.
+The Code Corvallis meetup is the perfect place to connect with local software developers and tech enthusiasts. We host regular events focused on coding, networking, and knowledge sharing. Whether you're a seasoned developer or just starting out, Code Corvallis provides a welcoming space for all levels. [Join us at our next event!](/events) and [connect with our community](/community).
 
 ## Key Organizations and Resources
 

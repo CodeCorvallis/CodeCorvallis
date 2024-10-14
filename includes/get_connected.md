@@ -1,0 +1,1 @@
+🗓 **Get Connected**: [Click here to join our Discord server](https://discord.gg/tau2vHZ8Tx) and start networking with other developers in the Corvallis area. It’s the best place to stay updated on events, share resources, and connect with others.

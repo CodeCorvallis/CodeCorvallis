@@ -50,11 +50,10 @@ features:
 ## Welcome to Code Corvallis
 
 ### Interested in coding and software development?
-Join us at Code Corvallis, where programmers, coders, and software engineers in Corvallis come together to connect, share, and learn. Whether you’re a seasoned developer or just starting out, this is a welcoming space for all levels of experience.
 
-At Code Corvallis, we explore all aspects of software development in a relaxed, community-focused atmosphere. Our meetups feature short presentations by local developers, opportunities for social networking, and insights into what programmers in Corvallis are up to.
+<!--@include: ../includes/join_us.md-->
 
-Corvallis has a unique, underground tech community, and Code Corvallis offers a window into this vibrant scene. We’re here to create connections, foster collaboration, and provide a space where coders can come together and grow. We keep things simple, focused, and tailored to the needs of our coding community.
+Corvallis has a unique, underground tech community, and Code Corvallis offers a window into this vibrant scene. We’re here to create connections, foster collaboration, and provide a space where developers can come together and grow. We aim to keep things simple, focused, and tailored to the needs of our coding community.
 
 Let’s come together to share knowledge and dive into the world of software development! Follow us on our website to stay updated on upcoming events and join us at our next meetup.
 
@@ -64,5 +63,5 @@ Let’s come together to share knowledge and dive into the world of software dev
 
 🗓 **Get Connected**: Join our [Discord community](/community) to connect with other developers and stay up-to-date with the latest announcements and discussions.
 
-💡 **Get Involved**: Have an idea for a talk or want to present at a future event? [Submit your proposal](https://github.com/CodeCorvallis/CodeCorvallis/issues/new?template=proposal.md&labels=presentation-submission) and share your expertise with the community.
+<!--@include: ../includes/get_involved.md-->
 

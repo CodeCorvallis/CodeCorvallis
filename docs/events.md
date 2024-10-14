@@ -14,9 +14,7 @@ tags:
 
 # Upcoming Events
 
-Join us at Code Corvallis, where developers in Corvallis come together to connect, share, and learn. Whether you're a seasoned professional or just starting out, this is a welcoming space for all experience levels.
-
-At Code Corvallis, we explore all aspects of software development in a relaxed, community-focused atmosphere. Our meetups feature short presentations by local developers, opportunities for social networking, and insights into what developers in Corvallis are up to.
+<!--@include: ../includes/join_us.md-->
 
 ## Meetup Schedule
 
@@ -28,5 +26,4 @@ At Code Corvallis, we explore all aspects of software development in a relaxed, 
 <!--@include: ../includes/next_event.md-->
 
 
-## Get Involved
-Want to present at a future meetup or help organize an event? [Submit a proposal](https://github.com/CodeCorvallis/CodeCorvallis/issues/new?template=proposal.md) or reach out to us through our [community page](/community).
+<!--@include: ../includes/get_involved.md-->

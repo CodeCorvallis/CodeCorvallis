@@ -1,0 +1,1 @@
+💡 **Get Involved**: Have an idea for a talk or want to present at a future event? [Submit your proposal](https://github.com/CodeCorvallis/CodeCorvallis/issues/new?template=proposal.md&labels=presentation-submission) and share your expertise with the [community](/community).
