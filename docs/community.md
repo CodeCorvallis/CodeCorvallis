@@ -15,7 +15,7 @@ tags:
 
 # Join the Code Corvallis Community
 
-We’re excited to have you as part of the Code Corvallis community! Here’s how you can connect with fellow software developers:
+We’re excited to have you as part of the Code Corvallis community! Here’s how you can connect:
 
 ## Join Our Discord
 [Click here to join our Discord server](https://discord.gg/tau2vHZ8Tx) and start networking with other developers in the Corvallis area. It’s the best place to stay updated on events, share resources, and connect with others.
