@@ -1,8 +1,8 @@
 ## Next Code Corvallis Meetup
 
 **Time**: 6:00 PM - 8:00 PM<br>
-**Date**: Thursday November 14th, 2024<br>
-**Topic**: All things Code. General code & tech discussions and networking.
+**Date**: Thursday December 5th, 2024<br>
+**Topic**: All things Code! General code & tech discussions and networking.
 
 **Location**: [Natural Grocers Community Room @ 1235 NW 10th St Corvallis, OR 97330](https://maps.app.goo.gl/gHs9tzfvrwq3XjoLA)<br>
 **Amenities**: Power, Water, Parking (free), variety of food and drinks (paid)<br> 
