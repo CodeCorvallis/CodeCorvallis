@@ -45,7 +45,7 @@ The Technology Association of Oregon (TAO) is a nonprofit organization that supp
 Join the Code Corvallis Meetup to connect with local developers and participate in coding and networking events. [Join us](/events)
 
 ### Startup Corvallis Meetup
-Startup Corvallis Meetup is a community-driven group that has been organizing informal networking events since 2015, aimed at fostering innovation and entrepreneurship in the Corvallis and Willamette Valley region. With over 600 members, the meetup facilitates casual gatherings such as coffee meetups and happy hours, encouraging participants to share ideas, seek support, and collaborate on projects in a friendly and interactive environment. [Explore Startup Corvallis](https://www.meetup.com/startupcorvallis/)
+Startup Corvallis Meetup is a community-driven group that has been organizing informal networking events since 2015, aimed at fostering innovation and entrepreneurship in the Corvallis and Willamette Valley region. With over 600 members, the meetup facilitates casual gatherings such as coffee meetups and happy hours, encouraging participants to share ideas, seek support, and collaborate on projects in a friendly and interactive environment. [Explore Startup Corvallis](https://www.meetup.com/Startup-Corvallis/)
 
 ### Co-working Spaces
 
