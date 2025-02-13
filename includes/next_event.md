@@ -1,7 +1,11 @@
+## NOTICE: Feb 13th Meetup
+
+Due to icy weather the meetup on Feb 13th is cancelled.
+
 ## Next Code Corvallis Meetup
 
 **Time**: 6:00 PM - 8:00 PM<br>
-**Date**: Thursday February 13, 2025<br>
+**Date**: Thursday February 27, 2025<br>
 **Topic**: All things Code! General code & tech discussions and networking.
 
 **Location**: [Natural Grocers Kitchen Demonstration Room @ 1235 NW 10th St Corvallis, OR 97330](https://maps.app.goo.gl/gHs9tzfvrwq3XjoLA)<br>
