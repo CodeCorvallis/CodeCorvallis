@@ -1,7 +1,3 @@
-## NOTICE: Feb 13th Meetup
-
-Due to icy weather the meetup on Feb 13th is cancelled.
-
 ## Next Code Corvallis Meetup
 
 **Time**: 6:00 PM - 8:00 PM<br>
