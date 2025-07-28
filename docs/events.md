@@ -16,6 +16,8 @@ tags:
 
 <!--@include: ../includes/join_us.md-->
 
+<!--@include: ../includes/what_to_expect.md-->
+
 ## Meetup Schedule
 
 **Time**: 6:00 PM - 8:00 PM<br>
