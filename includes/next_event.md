@@ -4,5 +4,5 @@
 **Date**: Thursday October 30, 2025<br>
 **Topic**: All things Code! General code & tech discussions and networking.
 
-**Location**: New Morning Bakery (219 SW 2nd St, Corvallis, OR 97333)<br>
+**Location**: [New Morning Bakery @ 219 SW 2nd St, Corvallis, OR 97333](https://maps.app.goo.gl/jnBmqujyKfYGtRfK7)<br>
 **Amenities**: Power, Water, Parking (free), variety of food and drinks (paid)<br>
