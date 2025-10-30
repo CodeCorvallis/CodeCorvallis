@@ -1,6 +1,6 @@
 ### ✅ What to Expect at Code Corvallis Meetups
 
-* 🕕 **We meet every other Thursday, 6–8pm (currently at Natural Grocers in the kitchen demo room).**
+* 🕕 **We meet every other Thursday, 6–8pm ([please check here for the next event's location] (https://codecorvallis.com/events.html#next-code-corvallis-meetup)).**
 * 💬 Casual, drop-in format — no RSVP needed.
 * 🧑‍💻 Discussions about code, software, projects, and career stuff.
 * 🗣️ Bring ideas, questions, projects, or job leads — all are welcome.
