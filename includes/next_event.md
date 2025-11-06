@@ -1,8 +1,8 @@
 ## Next Code Corvallis Meetup
 
 **Time**: 6:00 PM - 8:00 PM<br>
-**Date**: Thursday October 30, 2025<br>
+**Date**: Thursday November 13, 2025<br>
 **Topic**: All things Code! General code & tech discussions and networking.
 
-**Location**: [New Morning Bakery @ 219 SW 2nd St, Corvallis, OR 97333](https://maps.app.goo.gl/jnBmqujyKfYGtRfK7)<br>
+**Location**: [Natural Grocers Kitchen Demonstration Room @ 1235 NW 10th St Corvallis, OR 97330](https://maps.app.goo.gl/gHs9tzfvrwq3XjoLA)<br>
 **Amenities**: Power, Water, Parking (free), variety of food and drinks (paid)<br>
