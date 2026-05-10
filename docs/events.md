@@ -21,7 +21,7 @@ tags:
 ## Meetup Schedule
 
 **Time**: 6:00 PM - 8:00 PM<br>
-**Date**: Thursday, Every 2 Weeks<br>
+**Date**: Tuesday, Every 2 Weeks<br>
 **Location**: Varying<br>
 **Details**: Check out below for details on our next meetup. Check our [Discord community](/community) or follow us on social media for the latest updates!
 
