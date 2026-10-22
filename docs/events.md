@@ -1,6 +1,6 @@
 ---
-title: Upcoming Events | Code Corvallis
-description: Stay updated on upcoming Code Corvallis meetups, where developers and tech enthusiasts in Corvallis connect, share, and learn.
+title: Meetups | Code Corvallis
+description: Connect with Code Corvallis on Discord and confirm meetup details before heading out.
 prev: false
 next: false
 tags:
@@ -12,18 +12,11 @@ tags:
 ---
 
 
-# Upcoming Events
+# Meetups
 
 <!--@include: ../includes/join_us.md-->
 
 <!--@include: ../includes/what_to_expect.md-->
-
-## Meetup Schedule
-
-**Time**: 6:00 PM - 8:00 PM<br>
-**Date**: Tuesday, Every 2 Weeks<br>
-**Location**: Varying<br>
-**Details**: Check out below for details on our next meetup. Check our [Discord community](/community) or follow us on social media for the latest updates!
 
 <!--@include: ../includes/next_event.md-->
 

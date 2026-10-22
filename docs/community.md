@@ -15,10 +15,12 @@ tags:
 
 # Join the Code Corvallis Community
 
-We’re excited to have you as part of the Code Corvallis community! Here’s how you can connect:
+Our Discord is a place to meet local developers, share projects, ask questions, and connect between in-person meetups. Everyone is welcome, whether you’re just getting started or have been building software for years.
 
 ## Get Connected
 
 <!--@include: ../includes/get_connected.md-->
+
+For meetup plans, check **Events** and **#general** in the server. Confirm the date, time, and location before heading out.
 
 <!--@include: ../includes/get_involved.md-->

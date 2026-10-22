@@ -15,8 +15,8 @@ hero:
   tagline: Connect, Share, and Learn in a Relaxed, Community-Focused Atmosphere
   actions:
     - theme: brand
-      text: See Upcoming Events
-      link: /events/
+      text: Join us on Discord
+      link: https://discord.gg/tau2vHZ8Tx
     - theme: alt
       text: Submit Proposal
       link: /submit-proposal
@@ -29,7 +29,7 @@ features:
     title: Community-Focused Meetups
     details: Relaxed, welcoming atmosphere where developers of all levels can connect and share ideas.
     link: "/events"
-    linkText: "See Events"
+    linkText: "Find a Meetup"
   - icon: 🎤
     title: Engaging Presentations
     details: Short talks from local developers covering a wide range of software development topics.
@@ -55,7 +55,7 @@ features:
 
 Corvallis has a unique, underground tech community, and Code Corvallis offers a window into this vibrant scene. We’re here to create connections, foster collaboration, and provide a space where developers can come together and grow. We aim to keep things simple, focused, and tailored to the needs of our coding community.
 
-Let’s come together to share knowledge and dive into the world of software development! Follow us on our website to stay updated on upcoming events and join us at our next meetup.
+Meet local developers, share what you’re working on, and find a meetup through our [Discord community](https://discord.gg/tau2vHZ8Tx). Check **Events** and **#general** in the server to confirm the date, time, and location before heading out.
 
 <!--@include: ../includes/what_to_expect.md-->
 
