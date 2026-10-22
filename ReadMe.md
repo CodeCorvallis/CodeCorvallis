@@ -9,7 +9,7 @@ At Code Corvallis, we explore all aspects of software development in a relaxed, 
 
 Corvallis has a unique, underground tech community, and Code Corvallis offers a window into this vibrant scene. We’re here to create connections, foster collaboration, and provide a space where coders can come together and grow. We keep things simple, focused, and tailored to the needs of our coding community.
 
-Let’s come together to share knowledge and dive into the world of software development! Follow us on our website to stay updated on [upcoming events](https://codecorvallis.com/events) and join us at our next meetup.
+Connect with local developers in our [Discord community](https://discord.gg/tau2vHZ8Tx). Check the server’s **Events** and **#general** to confirm meetup dates, times, and locations before heading out.
 
 ## How to Submit a Proposal
 
